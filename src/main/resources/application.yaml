@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: kubernetes
+server:
+  port: 8080
